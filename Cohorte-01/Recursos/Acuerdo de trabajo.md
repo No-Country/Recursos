@@ -11,7 +11,7 @@ Utilizar `Trello` para dividir tareas.
 Instalar todas las dependencias en la rama `main`.<br>
 Crear rama `DEV` para no trabajar sobre la rama `main`.<br>
 Crear ramas con el nombre de la funcionalidad que están trabajando,<br>
-Una vez terminado hacer un `merge` con la rama **DEV**.<br>
+una vez terminado hacer un `merge` con la rama **DEV**.<br>
 Elegir una persona por equipo para que sea el encargado de hacer **merge**.<br>
 Commit Simple y Conciso.<br>
 Hacer commits una vez terminada una funcionalidad.<br>
